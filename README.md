@@ -20,4 +20,4 @@ Windows
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
 
-**Note**:  Note the tesseract path from the installation. Default installation path at the time the time of this edit was: r'C:\Program Files\Tesseract-OCR\tesseract'. It may change so please check the installation path. Change the location according to the location where you set up Tesseract locally
+**Note**:  Note the tesseract path from the installation. Default installation path was: r'C:\Program Files\Tesseract-OCR\tesseract'. It may change so please check the installation path. Change the location according to the location where you set up Tesseract locally
