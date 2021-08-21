@@ -26,4 +26,6 @@ Windows
 
 4. Set the tesseract path in the script before calling image_to_string:
 
-pytesseract.pytesseract.tesseract_cmd = r'C:\Users\USER\AppData\Local\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
+
+**Note**: Change the location according to the location where you set up Tesseract locally
